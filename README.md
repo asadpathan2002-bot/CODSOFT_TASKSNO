@@ -57,3 +57,6 @@ Compile the required Java file:
 
 ```bash
 javac NumberGame.java
+javac StudentGradeCalculator.java
+javac QuizApplication.java
+
